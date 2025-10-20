@@ -9,7 +9,7 @@ public class Exercice6 {
         
         int n = 8;         
         int k = 4;         
-        int[] T = {1, 2, 2, 3, 2, 1, 4, 2}; 
+        int[] T = {1, 2, 2, 3, 2, 1, 4, 2,5,6,7,4,3,9,8,7,6,54,3,2,2,56,9,6}; 
 
         final int MAXV = 100000;
         int[] freq = new int[MAXV + 1]; 
